@@ -1,0 +1,13 @@
+Ninja , 90
+
+Ghost , 88
+
+hunter , 95
+
+pica_pau , 79
+
+Phoenix , 99
+
+Neon_Striker , 84
+
+Quantum_Pulse , 91
